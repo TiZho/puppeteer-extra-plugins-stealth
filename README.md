@@ -1,0 +1,1 @@
+# puppeteer-extra-plugins-stealth
