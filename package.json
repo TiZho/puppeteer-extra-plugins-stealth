@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "puppeteer-extra-plugin": "^3.2.2",
+    "puppeteer-extra-plugin": "git://github.com/TiZho/puppeteer-extra-plugins.git#master",
     "puppeteer-extra-plugin-user-preferences": "^2.4.0"
   },
   "peerDependencies": {
